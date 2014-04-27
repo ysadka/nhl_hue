@@ -6,7 +6,7 @@ On a hue:
 - If a team is leading then the light will turn to the color of their jersey (controled in team_info.rb)
 
 On an Arduino:
--Light is placed in port 13 and will flash any time a team scores a goal
+- Light is placed in port 13 and will flash any time a team scores a goal
 
 Required Gems:
 

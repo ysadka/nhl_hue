@@ -1,91 +1,91 @@
 TEAM_INFO = {
   ana: {
-         city:         'anaheim',
-         name:         'ducks',
+         city:         'Anaheim',
+         name:         'Ducks',
          jersey_color: 'orange'
        },
-       
+
   bos: {
-         city:         'boston',
-         name:         'bruins',
+         city:         'Boston',
+         name:         'Bruins',
          jersey_color: 'yellow'
        },
 
   chi: {
-         city:         'chicago',
-         name:         'blackhawks',
+         city:         'Chicago',
+         name:         'Blackhawks',
          jersey_color: 'red'
        },
 
   col: {
          city:         'colorado',
-         name:         'avalanche',
+         name:         'Avalanche',
          jersey_color: 'blue'
        },
 
   dal: {
-         city:         'dallas',
-         name:         'stars',
+         city:         'Dallas',
+         name:         'Stars',
          jersey_color: 'green'
        },
 
   det: {
-         city:         'detroit',
-         name:         'red wings',
+         city:         'Detroit',
+         name:         'Red Wings',
          jersey_color: 'red'
        },
 
   lak: {
-         city:         'los_angeles',
-         name:         'kings',
+         city:         'Los Angeles',
+         name:         'Kings',
          jersey_color: 'purple'
        },
 
   min: {
-         city:         'minnesota',
-         name:         'wild',
+         city:         'Minnesota',
+         name:         'Wild',
          jersey_color: 'green'
        },
 
   mtl: {
-         city:         'montreal',
-         name:         'canadiens',
+         city:         'Montreal',
+         name:         'Canadiens',
          jersey_color: 'red'
        },
 
   phi: {
-         city:         'philadelphia',
-         name:         'flyers',
+         city:         'Philadelphia',
+         name:         'Flyers',
          jersey_color: 'orange'
        },
 
   pit: {
-         city:         'pittsburgh',
-         name:         'penguins',
+         city:         'Pittsburgh',
+         name:         'Penguins',
          jersey_color: 'yellow'
        },
 
   nyr: {
-         city:         'new_york',
-         name:         'rangers',
+         city:         'New York',
+         name:         'Rangers',
          jersey_color: 'blue'
        },
 
   sjs: {
-         city:         'san_jose',
-         name:         'sharks',
+         city:         'San Jose',
+         name:         'Sharks',
          jersey_color: 'teal'
        },
 
   stl: {
-         city:         'st_louis',
-         name:         'blues',
+         city:         'St Louis',
+         name:         'Blues',
          jersey_color: 'blue'
        },
 
   tbl: {
-         city:         'tampa_bay',
-         name:         'lightning',
+         city:         'Tampa Bay',
+         name:         'Lightning',
          jersey_color: 'blue'
        }
 }
