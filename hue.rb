@@ -1,5 +1,4 @@
 require "rubygems"
-require "arduino_firmata"
 require "nokogiri"
 require "open-uri"
 require "hue"
