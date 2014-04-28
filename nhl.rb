@@ -65,10 +65,9 @@ end
 @away = 0
 @time = ''
 
-doc = Nokogiri::HTML(open("http://www.nhl.com/"))
-@games = doc.children.children.children.children.children.children.children.children.children.children.children.each_slice(7).to_a
-
-while @time != 'FINAL'
+while @time.include?('FINAL')
+  doc = Nokogiri::HTML(open("http://www.nhl.com/"))
+  @games = doc.children.children.children.children.children.children.children.children.children.children.children.each_slice(7).to_a
   @games.each do |match|
     desired_update?(match) ? game_update(match) : next
   end
